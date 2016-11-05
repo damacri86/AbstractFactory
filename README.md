@@ -1,5 +1,8 @@
 # Abstract Factory Pattern
 
+![Pattern](https://img.shields.io/badge/Creational-Patterns-green.svg)
+![Languages](https://img.shields.io/badge/Language-swift-green.svg)
+
 ### Motivación
 Haces una aplicación. Está tan bonita que hasta duele al tocarla y de repente aparece la linda idea de... Y si añadimos más layouts a nuestras views? Y si añadimos nuevas configuraciones? Y si...? Y si..? 
 
